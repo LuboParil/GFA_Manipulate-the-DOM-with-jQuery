@@ -1,0 +1,23 @@
+h1 {
+	color: #442044;
+}
+h2 {
+	color: #906090;
+}
+h3 {
+	color: #9955bb;
+}
+
+ul {
+	list-style-type: square;
+}
+ol {
+	list-style-type: upper-roman;
+}
+
+.red {
+	color: red;
+}
+.underlined {
+	text-decoration: underline;
+}
